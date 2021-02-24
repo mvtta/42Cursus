@@ -1,0 +1,9 @@
+[submodule "https:/github.com/m4r11/42Cursus/lvl0_libft"]
+	path = https:/github.com/m4r11/42Cursus/lvl0_libft
+	url = https://github.com/m4r11/42Cursus
+[submodule "libft"]
+	path = libft
+	url = https://github.com/m4r11/42Cursus
+[submodule "get_next_line"]
+	path = get_next_line
+	url = https://github.com/m4r11/42Cursus/
