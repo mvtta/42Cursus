@@ -1,0 +1,6 @@
+[submodule "/Users/mvaldeta/42/Cursus/42Cursus/00.libft"]
+	path = /Users/mvaldeta/42/Cursus/42Cursus/00.libft
+	url = https://github.com/m4r11/00.libft
+[submodule "/Users/mvaldeta/42/Cursus/42Cursus/01.get_next_line"]
+	path = /Users/mvaldeta/42/Cursus/42Cursus/01.get_next_line
+	url = https://github.com/m4r11/01.get_next_line
