@@ -13,7 +13,6 @@
 [submodule "42Cursus"]
 	path = 42Cursus
 	url = /Users/mvaldeta/42/Cursus/42Cursus
-[submodule "/Users/mvaldeta/42/42Cursus/01.ft.printf"]
-	path = /Users/mvaldeta/42/42Cursus/01.ft.printf
-	url = https://github.com/m4r11/01.ftprintf.git
-	branch = master
+[submodule "/Users/mvaldeta/42/42Cursus/01.ftprintf"]
+	path = /Users/mvaldeta/42/42Cursus/01.ftprintf
+	url = https://github.com/m4r11/01.ftprintf
