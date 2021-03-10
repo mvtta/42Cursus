@@ -10,6 +10,6 @@
 [submodule "01.get_next_line"]
 	path = 01.get_next_line
 	url = https://github.com/m4r11/01.get_next_line
-[submodule "/Users/mvaldeta/42/42Cursus/01.ftprintf"]
-	path = /Users/mvaldeta/42/42Cursus/01.ftprintf
+[submodule "01.ftprintf"]
+	path = 01.ftprintf
 	url = https://github.com/m4r11/01.ftprintf
