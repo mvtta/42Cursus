@@ -19,3 +19,6 @@
 [submodule "02.ft_server"]
 	path = 02.ft_server
 	url = https://github.com/m4r11/02.ft_server.git
+[submodule "02.MiniRT"]
+	path = 02.MiniRT
+	url = https://github.com/m4r11/02.miniRT.git
