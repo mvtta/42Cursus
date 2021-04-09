@@ -13,3 +13,6 @@
 [submodule "01.ftprintf"]
 	path = 01.ftprintf
 	url = https://github.com/m4r11/01.ftprintf
+[submodule "01.netwhat"]
+	path = 01.netwhat
+	url = https://github.com/m4r11/01.netwhat.git
