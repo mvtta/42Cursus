@@ -22,3 +22,6 @@
 [submodule "02.MiniRT"]
 	path = 02.MiniRT
 	url = https://github.com/m4r11/02.miniRT.git
+[submodule "02.miniRT"]
+	path = 02.miniRT
+	url = https://github.com/m4r11/02.miniRT.git
