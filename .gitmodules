@@ -16,3 +16,6 @@
 [submodule "01.netwhat"]
 	path = 01.netwhat
 	url = https://github.com/m4r11/01.netwhat.git
+[submodule "02.ft_server"]
+	path = 02.ft_server
+	url = https://github.com/m4r11/02.ft_server.git
