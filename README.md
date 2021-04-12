@@ -22,3 +22,8 @@ with over 10.000 students in more than 20 countries."
 ```
 [42Lisboa](https://www.42lisboa.com/en/)
 
+###### About me
+```
+"The Universe is under no obligation to make sense to you", nor am I.
+```
+
