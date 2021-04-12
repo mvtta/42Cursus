@@ -6,7 +6,7 @@ This is my personal Captain's log. It's where I write down all I've learned, how
 All work is being developed under the guidelines of the school, and exclusive norme.  
 ```
 
-###### About
+###### About 42
 ```
 "42 is among the best coding schools in the world,  
 with over 10.000 students in more than 20 countries."
