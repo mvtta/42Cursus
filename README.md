@@ -9,8 +9,8 @@ All work is being developed under the guidelines of the school, and exclusive no
 ```
 0.0 Libft ✅ 100%
 0.1 get_next_line  ✅ 115%
-0.1 printf 📛 done, witing for turn in
-0.1 netwhat 🥘 cooking
+0.1 printf ✅ 100%
+0.1 netwhat  ✅ 100%
 0.2 ft_server 🥘 cooking
 0.2 miniRT research phase 🧪
 ```
@@ -22,8 +22,4 @@ with over 10.000 students in more than 20 countries."
 ```
 [42Lisboa](https://www.42lisboa.com/en/)
 
-###### About me
-```
-"The Universe is under no obligation to make sense to you", nor am I.
-```
 
