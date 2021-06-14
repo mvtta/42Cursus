@@ -2,7 +2,7 @@
 ## Part I  
 ###### student projects @ 42Lisboa 2020-2021
 ###### stats
-[![mvaldeta student stats](https://github-readme-stats.vercel.app/api?username=m4r11)](https://github.com/anuraghazra/github-readme-stats)
+[![mvaldeta student stats](https://github-readme-stats.vercel.app/api?username=m4r11&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ###### Foreword
 ```
