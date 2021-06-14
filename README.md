@@ -1,10 +1,17 @@
 # 42 Software Engineer Cursus   
-## -> Part I  
+## Part I  
 ###### student projects @ 42Lisboa 2020-2021
+###### stats
+[![mvaldeta student stats](https://github-readme-stats.vercel.app/api?username=m4r11/)](https://github.com/anuraghazra/github-readme-stats)
 
 ###### Foreword
 ```
-All work is being developed under the strict guidelines of the school, and exclusive norm.  
+All work is being developed under the strict guidelines of the school,  
+and exclusive norm.  
+The threshold to pass any project is 100%, 
+we may attempt as many times we want.  
+Most of libc functions are **forbiden** thus our own implementation  
+of basic funtionalities.  
 ```
 ###### Cursus Structure
 ![graph](https://github.com/m4r11/42Cursus/blob/main/holygraph/IMG_3146%20(2).PNG)
