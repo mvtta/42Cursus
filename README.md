@@ -1,17 +1,15 @@
-# 42 Software Engineer Cursus -> Part I 🔬
+# 42 Software Engineer Cursus   
+## -> Part I  
 ###### student projects @ 42Lisboa 2020-2021
 
 ###### Foreword
-
 ```
 All work is being developed under the strict guidelines of the school, and exclusive norm.  
 ```
 ###### Cursus Structure
-
-![]()
+![graph](https://github.com/m4r11/42Cursus/blob/main/holygraph/IMG_3146%20(2).PNG)
 
 ###### Validated && ongoing projects
-
 ```
 0.0 libft: recode essential libc funtions -> ✅ 100%
 0.1 get_next_line: a function that reads only a line from a file -> ✅ 115%
@@ -23,7 +21,6 @@ All work is being developed under the strict guidelines of the school, and exclu
 ```
 
 ###### About 42
-
 ```
 "42 is among the best coding schools in the world,  
 with over 10.000 students in more than 20 countries."
