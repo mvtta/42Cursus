@@ -16,7 +16,7 @@ of basic funtionalities.
 ###### Cursus Structure
 ![graph](https://github.com/m4r11/42Cursus/blob/main/holygraph/IMG_3146%20(2).PNG)
 
-###### Validated && ongoing projects
+###### Validated + ongoing projects
 ```
 0.0 libft: recode essential libc funtions -> ✅ 100%
 0.1 get_next_line: a function that reads only a line from a file -> ✅ 115%
