@@ -1,4 +1,4 @@
-# 42 Software Engineer Cursus   
+# 42 Software Engineering Cursus   
 ## Part I  
 ###### student projects @ 42Lisboa 2020-2021
 ###### stats
@@ -9,8 +9,8 @@
 All work is being developed under the strict guidelines of the school,  
 and exclusive norm.  
 The threshold to pass any project is 100%, 
-we may attempt as many times we want.  
-Most of libc functions are **forbiden** thus our own implementation  
+We may attempt to validate as many times we want.  
+Most of libc functions are ** forbidden ** thus our own implementation  
 of basic funtionalities.  
 ```
 ###### Cursus Structure
@@ -18,13 +18,13 @@ of basic funtionalities.
 
 ###### Validated + ongoing projects
 ```
-0.0 libft: recode essential libc funtions -> ✅ 100%
-0.1 get_next_line: a function that reads only a line from a file -> ✅ 115%
-0.1 printf: recode the infamous printf function -> ✅ 100%
-0.1 netwhat: intro to networks -> ✅ 100%
-0.2 ft_server: automation script for a lemp -> ✅ (to be graded)
-0.2 miniRT: create a raytracing algorithm (changed tier to level 0.4) -> 🚀
-0.2 push_swap: intro to space & time complexity algorithm (impementation at 75%) -> 🚀
+level -> 0.0 -> ✅ 100% -> libft: RECODE essential LIBC functions
+level -> 0.1 -> ✅ 115% -> get_next_line: a function that READS only a line FROM A FILE
+level -> 0.1 -> ✅ 100% -> printf: RECODE the infamous PRINTF function
+level -> 0.1 -> ✅ 100% -> netwhat: intro to NETWORKS
+level -> 0.2 -> 🚀 ---- -> ft_server: AUTOMATION script for a LEMP w/ DOCKER
+level -> 0.2 -> 🚀 ---- -> miniRT: create a RAYTRACING algorithm
+level -> 0.2 -> 🚀 ---- -> push_swap: intro to space & time complexity, SORTING STACKS algorithm 
 ```
 
 ###### About 42
