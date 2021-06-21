@@ -10,14 +10,13 @@ by: mvaldeta
 <h2>
 </h2>
 
-https://www.42lisboa.com/wp-content/uploads/2020/06/mapa_localizacoes.png
-
 ###### About 42
 
 ```
 The school’s practical approach, based on peer-to-peer collaboration, guarantees both   excellent technical training and the development of valuable soft skills, such as the ability to   work in teams, problem-solving, adaptation, determination, and resilience.   
-![IMG_COVER](https://www.42lisboa.com/wp-content/uploads/2020/06/mapa_localizacoes.png)
 ```
+
+![IMG_COVER](https://www.42lisboa.com/wp-content/uploads/2020/06/mapa_localizacoes.png)
 
 ###### An International School 
 
