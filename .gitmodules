@@ -28,3 +28,5 @@
 [submodule "02.push_swap"]
 	path = 02.push_swap
 	url = https://github.com/m4r11/02.push_swap.git
+[submodule "Submod"]
+	url = https://github.com/m4r11/02.ft_server
