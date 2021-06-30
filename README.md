@@ -12,6 +12,8 @@ by: mvaldeta
 
 ###### About 42
 
+Simplicity is the ultimate sophistication
+- Da Vinci
 ```
 The school’s practical approach, based on peer-to-peer collaboration, guarantees both   
 excellent technical training and the development of valuable soft skills, such as the ability to   
