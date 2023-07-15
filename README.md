@@ -66,11 +66,9 @@ level -> 0.1 -> ✅ 115% -> get_next_line: a function that READS only a line FRO
 level -> 0.1 -> ✅ 100% -> printf: RECODE the infamous PRINTF function
 level -> 0.1 -> ✅ 100% -> netwhat: intro to NETWORKS
 level -> 0.2 -> ✅ 100% -> ft_server: AUTOMATION script for a LEMP w/ DOCKER
-level -> 0.2 -> 🚀 ---- -> push_swap: intro to space & time complexity, SORTING STACKS algorithm 
-level -> 0.2 -> 🚀 ---- -> minitalk: o code a small data exchange program using UNIX signals
-level -> 0.3 -> 🚀 ---- -> miniSHELL: create a simple shell
-level -> 0.3 -> 🚀 ---- -> philosophers: multithreading
-level -> 0.4 -> 🚀 ---- -> miniRT: create a RAYTRACING algorithm
+level -> 0.2 -> ✅ 100% -> push_swap: intro to space & time complexity, SORTING STACKS algorithm 
+level -> 0.2 -> ✅ 100% -> minitalk: o code a small data exchange program using UNIX signals
+level -> 0.4 -> ✅ 100% -> miniRT: create a RAYTRACING algorithm
 ```
 
 ###### stats
